@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.160cf8c2.css",
+    "main.js": "/static/js/main.392ffcd6.js",
+    "static/js/787.0f15b36d.chunk.js": "/static/js/787.0f15b36d.chunk.js",
+    "static/media/design_head3d.gif": "/static/media/design_head3d.a3f2c1482882573e7137.gif",
+    "static/media/background_chitchat.jpg": "/static/media/background_chitchat.5df77da76e8ac381a8b4.jpg",
+    "static/media/background_home.png": "/static/media/background_home.382701ab781e4d7b21b2.png",
+    "static/media/background_carpass.jpg": "/static/media/background_carpass.c3f3bc64fdf59f53fb0a.jpg",
+    "static/media/background_metromesh.jpg": "/static/media/background_metromesh.9c884dcb063c6a119028.jpg",
+    "static/media/background_bark.jpg": "/static/media/background_bark.28b2d50650a4eb584144.jpg",
+    "static/media/text_notme.png": "/static/media/text_notme.05d09d7848ecd4f4eba4.png",
+    "static/media/text_hello.png": "/static/media/text_hello.e21bbd8fc85d00892a7e.png",
+    "static/media/text_metromesh.png": "/static/media/text_metromesh.c537649c4e0258acb33d.png",
+    "static/media/text_carpass.png": "/static/media/text_carpass.1b61c4adcd4c112a7945.png",
+    "static/media/text_chitchat.png": "/static/media/text_chitchat.61238a68dfd426562621.png",
+    "static/media/text_bark.png": "/static/media/text_bark.eaf0629b239bcd276269.png",
+    "static/media/text_designer.png": "/static/media/text_designer.e19b0b0b67ed971e7a00.png",
+    "static/media/icon_sun.png": "/static/media/icon_sun.209e3492c9e648707366.png",
+    "static/media/text_developer.png": "/static/media/text_developer.957ec2d9685c8954ff68.png",
+    "index.html": "/index.html",
+    "main.160cf8c2.css.map": "/static/css/main.160cf8c2.css.map",
+    "main.392ffcd6.js.map": "/static/js/main.392ffcd6.js.map",
+    "787.0f15b36d.chunk.js.map": "/static/js/787.0f15b36d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.160cf8c2.css",
+    "static/js/main.392ffcd6.js"
+  ]
+}
